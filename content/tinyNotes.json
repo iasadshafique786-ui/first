@@ -2,31 +2,31 @@
   {
     "id": "1",
     "text": "Remember to breathe",
-    "color": "bg-yellow-50"
+    "color": "bg-yellow-100"
   },
   {
     "id": "2",
     "text": "Progress > Perfection",
-    "color": "bg-blue-50"
+    "color": "bg-blue-100"
   },
   {
     "id": "3",
     "text": "Be kind to yourself",
-    "color": "bg-purple-50"
+    "color": "bg-purple-100"
   },
   {
     "id": "4",
     "text": "Smile, it's contagious!",
-    "color": "bg-pink-50"
+    "color": "bg-yellow-100"
   },
   {
     "id": "7",
     "text": "Stay curious.",
-    "color": "bg-green-50"
+    "color": "bg-purple-100"
   },
   {
     "id": "9",
     "text": "Kindness is free.",
-    "color": "bg-orange-50"
+    "color": "bg-pink-100"
   }
 ]
