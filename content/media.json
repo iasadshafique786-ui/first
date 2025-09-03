@@ -70,5 +70,29 @@
     "type": "image",
     "url": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
     "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "1756885684838",
+    "title": "Nature1",
+    "description": "Beauty",
+    "type": "image",
+    "url": "#",
+    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.altanlabs.com/8806280f-588f-475b-88cf-e3a2972d9761"
+  },
+  {
+    "id": "1756885743173",
+    "title": "Green",
+    "description": "Beauty",
+    "type": "image",
+    "url": "#",
+    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.altanlabs.com/20009349-0a39-49fe-8da2-a0bd4e37984c"
+  },
+  {
+    "id": "1756885798941",
+    "title": "Snow",
+    "description": "View",
+    "type": "image",
+    "url": "#",
+    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.altanlabs.com/7e475b5c-9103-4e36-a03d-f1d34ef6768c"
   }
 ]
