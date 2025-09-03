@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "title": "Notion",
+    "category": "tools",
+    "description": "All-in-one workspace",
+    "url": "https://notion.so"
+  },
+  {
+    "id": "2",
+    "title": "Figma",
+    "category": "tools",
+    "description": "Design collaboration platform",
+    "url": "https://figma.com"
+  },
+  {
+    "id": "3",
+    "title": "VS Code",
+    "category": "tools",
+    "description": "Code editor by Microsoft",
+    "url": "https://code.visualstudio.com"
+  },
+  {
+    "id": "4",
+    "title": "Slack",
+    "category": "tools",
+    "description": "Team communication hub",
+    "url": "https://slack.com"
+  },
+  {
+    "id": "5",
+    "title": "Trello",
+    "category": "tools",
+    "description": "Project management boards",
+    "url": "https://trello.com"
+  },
+  {
+    "id": "6",
+    "title": "Canva",
+    "category": "tools",
+    "description": "Graphic design made easy",
+    "url": "https://canva.com"
+  },
+  {
+    "id": "7",
+    "title": "GitHub",
+    "category": "tools",
+    "description": "Code repository hosting",
+    "url": "https://github.com"
+  },
+  {
+    "id": "8",
+    "title": "Zoom",
+    "category": "tools",
+    "description": "Video conferencing platform",
+    "url": "https://zoom.us"
+  },
+  {
+    "id": "9",
+    "title": "Google Workspace",
+    "category": "tools",
+    "description": "Productivity suite",
+    "url": "https://workspace.google.com"
+  },
+  {
+    "id": "10",
+    "title": "Loom",
+    "category": "tools",
+    "description": "Screen recording tool",
+    "url": "https://loom.com"
+  },
+  {
+    "id": "11",
+    "title": "Atomic Habits",
+    "category": "books",
+    "description": "By James Clear",
+    "url": "#"
+  },
+  {
+    "id": "12",
+    "title": "The Lean Startup",
+    "category": "books",
+    "description": "By Eric Ries",
+    "url": "#"
+  },
+  {
+    "id": "13",
+    "title": "Mindset",
+    "category": "books",
+    "description": "By Carol Dweck",
+    "url": "#"
+  },
+  {
+    "id": "14",
+    "title": "Deep Work",
+    "category": "books",
+    "description": "By Cal Newport",
+    "url": "#"
+  },
+  {
+    "id": "15",
+    "title": "The 7 Habits",
+    "category": "books",
+    "description": "By Stephen Covey",
+    "url": "#"
+  },
+  {
+    "id": "16",
+    "title": "Think and Grow Rich",
+    "category": "books",
+    "description": "By Napoleon Hill",
+    "url": "#"
+  },
+  {
+    "id": "17",
+    "title": "Good to Great",
+    "category": "books",
+    "description": "By Jim Collins",
+    "url": "#"
+  },
+  {
+    "id": "18",
+    "title": "The Power of Now",
+    "category": "books",
+    "description": "By Eckhart Tolle",
+    "url": "#"
+  },
+  {
+    "id": "19",
+    "title": "Sapiens",
+    "category": "books",
+    "description": "By Yuval Noah Harari",
+    "url": "#"
+  },
+  {
+    "id": "20",
+    "title": "The Alchemist",
+    "category": "books",
+    "description": "By Paulo Coelho",
+    "url": "#"
+  },
+  {
+    "id": "21",
+    "title": "The Tim Ferriss Show",
+    "category": "podcasts",
+    "description": "World-class performers",
+    "url": "#"
+  },
+  {
+    "id": "22",
+    "title": "How I Built This",
+    "category": "podcasts",
+    "description": "Startup stories with Guy Raz",
+    "url": "#"
+  },
+  {
+    "id": "23",
+    "title": "The Joe Rogan Experience",
+    "category": "podcasts",
+    "description": "Long-form conversations",
+    "url": "#"
+  },
+  {
+    "id": "24",
+    "title": "Smart Passive Income",
+    "category": "podcasts",
+    "description": "By Pat Flynn",
+    "url": "#"
+  },
+  {
+    "id": "25",
+    "title": "The School of Greatness",
+    "category": "podcasts",
+    "description": "By Lewis Howes",
+    "url": "#"
+  },
+  {
+    "id": "26",
+    "title": "Masters of Scale",
+    "category": "podcasts",
+    "description": "By Reid Hoffman",
+    "url": "#"
+  },
+  {
+    "id": "27",
+    "title": "The Tony Robbins Podcast",
+    "category": "podcasts",
+    "description": "Personal development",
+    "url": "#"
+  },
+  {
+    "id": "28",
+    "title": "TED Talks Daily",
+    "category": "podcasts",
+    "description": "Ideas worth spreading",
+    "url": "#"
+  },
+  {
+    "id": "29",
+    "title": "The GaryVee Audio Experience",
+    "category": "podcasts",
+    "description": "Entrepreneurship insights",
+    "url": "#"
+  },
+  {
+    "id": "30",
+    "title": "Syntax",
+    "category": "podcasts",
+    "description": "Web development podcast",
+    "url": "#"
+  },
+  {
+    "id": "31",
+    "title": "CS50",
+    "category": "courses",
+    "description": "Harvard Computer Science",
+    "url": "#"
+  },
+  {
+    "id": "32",
+    "title": "Machine Learning",
+    "category": "courses",
+    "description": "Stanford by Andrew Ng",
+    "url": "#"
+  },
+  {
+    "id": "33",
+    "title": "The Complete Web Developer",
+    "category": "courses",
+    "description": "Zero to Mastery",
+    "url": "#"
+  },
+  {
+    "id": "34",
+    "title": "Digital Marketing",
+    "category": "courses",
+    "description": "Google Digital Garage",
+    "url": "#"
+  },
+  {
+    "id": "35",
+    "title": "Python for Everybody",
+    "category": "courses",
+    "description": "University of Michigan",
+    "url": "#"
+  },
+  {
+    "id": "36",
+    "title": "UX Design Fundamentals",
+    "category": "courses",
+    "description": "Interaction Design Foundation",
+    "url": "#"
+  },
+  {
+    "id": "37",
+    "title": "Financial Markets",
+    "category": "courses",
+    "description": "Yale University",
+    "url": "#"
+  },
+  {
+    "id": "38",
+    "title": "The Science of Well-Being",
+    "category": "courses",
+    "description": "Yale University",
+    "url": "#"
+  },
+  {
+    "id": "39",
+    "title": "Introduction to Psychology",
+    "category": "courses",
+    "description": "MIT OpenCourseWare",
+    "url": "#"
+  },
+  {
+    "id": "40",
+    "title": "Blockchain Basics",
+    "category": "courses",
+    "description": "University at Buffalo",
+    "url": "#"
+  }
+]
