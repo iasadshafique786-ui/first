@@ -13,5 +13,20 @@
     "id": "3",
     "text": "Be kind to yourself",
     "color": "bg-purple-100"
+  },
+  {
+    "id": "4",
+    "text": "Smile, it's contagious!",
+    "color": "bg-yellow-100"
+  },
+  {
+    "id": "7",
+    "text": "Stay curious.",
+    "color": "bg-purple-100"
+  },
+  {
+    "id": "9",
+    "text": "Kindness is free.",
+    "color": "bg-pink-100"
   }
 ]
