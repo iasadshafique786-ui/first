@@ -22,5 +22,53 @@
     "type": "image",
     "url": "https://api.altan.ai/platform/media/d6a4885c-110e-4deb-a7f6-455e2117a3de?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
     "thumbnail": "https://api.altan.ai/platform/media/d6a4885c-110e-4deb-a7f6-455e2117a3de?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "4",
+    "title": "Canadian Wilderness",
+    "description": "Snow-covered peaks and winding mountain road",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/95f88796-9a44-4cb6-af8d-9d374414c05c?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/95f88796-9a44-4cb6-af8d-9d374414c05c?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "5",
+    "title": "Solar System Wonder",
+    "description": "Cosmic beauty of planets and stars",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/a3c39018-fc2c-49f4-868f-80df52f6667a?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/a3c39018-fc2c-49f4-868f-80df52f6667a?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "6",
+    "title": "Mountain Village Serenity",
+    "description": "Peaceful hillside settlement in nature",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/ce53f79a-fa1b-4a20-979a-ea89d919edb4?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/ce53f79a-fa1b-4a20-979a-ea89d919edb4?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "7",
+    "title": "Tropical Lake Paradise",
+    "description": "Lush green reflections in crystal waters",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/674338f7-6110-4661-a4d5-976e8e600239?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/674338f7-6110-4661-a4d5-976e8e600239?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "8",
+    "title": "Lakeside Cabin Retreat",
+    "description": "Peaceful wooden cabin by emerald waters",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/c9dfec05-c6ef-4cdf-b8bc-7834597d0b7c?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/c9dfec05-c6ef-4cdf-b8bc-7834597d0b7c?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "9",
+    "title": "Alpine Lake Reflection",
+    "description": "Perfect mountain mirror in pristine waters",
+    "type": "image",
+    "url": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
+    "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
   }
 ]
