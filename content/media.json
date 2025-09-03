@@ -70,29 +70,5 @@
     "type": "image",
     "url": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
     "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
-  },
-  {
-    "id": "1756868633266",
-    "title": "1",
-    "description": "1",
-    "type": "image",
-    "url": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/5ade0b52-c7d5-410c-a25c-92d24c716104",
-    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/57df836a-187e-4d57-bb58-e9c5b4dcc179"
-  },
-  {
-    "id": "1756868648838",
-    "title": "2",
-    "description": "2",
-    "type": "image",
-    "url": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/3c4a4cfa-85d3-48a2-bbc1-9ffe38a53000",
-    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/da81f078-dc34-4a2e-ba90-ee9fee340503"
-  },
-  {
-    "id": "1756868666326",
-    "title": "3",
-    "description": "3",
-    "type": "image",
-    "url": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/6a93d166-0b00-4245-87b2-8c3c0b0059a3",
-    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/bb12d6b5-a70e-4b15-88ef-d45ff1dff12d"
   }
 ]
