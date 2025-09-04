@@ -72,14 +72,14 @@
     "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
   },
   {
-    "id": "temp-1756967250798",
+    "id": "1756967252813",
     "title": "1",
     "description": "1",
     "type": "image",
-    "url": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/dc2cbb07-ba48-4839-9401-09e8bef0599b",
-    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/dc2cbb07-ba48-4839-9401-09e8bef0599b",
-    "isLocal": true,
-    "uploadStatus": "uploading",
-    "uploadProgress": 50
+    "url": "https://raw.githubusercontent.com/iasadshafique786-ui/first/main/uploads/103147.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/iasadshafique786-ui/first/main/uploads/103147.jpg",
+    "isLocal": false,
+    "uploadStatus": "success",
+    "uploadProgress": 100
   }
 ]
