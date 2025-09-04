@@ -1,47 +1,47 @@
 [
   {
     "id": "1",
-    "text": "\nIn the Name of Allah - the Most Compassionate, Most Merciful..\nQuran 1.1",
-    "color": "bg-pink-200"
+    "text": "Innovation starts with curiosity",
+    "color": "bg-yellow-200"
   },
   {
     "id": "2",
-    "text": "\n My mercy encompasses all things\nQuran 7:156",
+    "text": "Every expert was once a beginner",
     "color": "bg-green-200"
   },
   {
+    "id": "3",
+    "text": "Technology serves humanity",
+    "color": "bg-pink-200"
+  },
+  {
     "id": "4",
-    "text": "\nSo remember Me; I will remember you\nQuran 2:152\nAAA",
+    "text": "Learning never stops",
     "color": "bg-blue-200"
   },
   {
     "id": "5",
-    "text": "\nSufficient for us is Allah, and He is the best Disposer of affairs\nQuran 3:173",
+    "text": "Ideas change the world",
     "color": "bg-purple-200"
   },
   {
     "id": "6",
-    "text": "\nIndeed, with hardship comes ease\nQuran 94:6",
+    "text": "Persistence beats resistance",
     "color": "bg-orange-200"
   },
   {
     "id": "7",
-    "text": "\nIf you are grateful, I will certainly increase you in favor\nQuran 14:7",
-    "color": "bg-pink-200"
+    "text": "Code with purpose",
+    "color": "bg-red-200"
   },
   {
     "id": "8",
-    "text": "\nAnd seek help through patience and prayer\nQuran 2:45",
-    "color": "bg-blue-200"
-  },
-  {
-    "id": "3",
-    "text": "\nAnd He is the Forgiving, the Affectionate\nQuran 85:14",
-    "color": "bg-yellow-200"
+    "text": "Teach to learn",
+    "color": "bg-indigo-200"
   },
   {
     "id": "9",
-    "text": "\nVerily, in the remembrance of Allah do hearts find rest\nQuran 13:28",
-    "color": "bg-green-200"
+    "text": "Dream big, start small",
+    "color": "bg-teal-200"
   }
 ]
