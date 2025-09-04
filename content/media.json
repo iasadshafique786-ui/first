@@ -70,5 +70,16 @@
     "type": "image",
     "url": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
     "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
+  },
+  {
+    "id": "temp-1756959489800",
+    "title": "1",
+    "description": "1",
+    "type": "image",
+    "url": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/9856f4c8-c6a4-444d-94c3-96b5c8d5ad40",
+    "thumbnail": "blob:https://2daa7e-19a357-new-app-clone.preview.altan.ai/9856f4c8-c6a4-444d-94c3-96b5c8d5ad40",
+    "isLocal": true,
+    "uploadStatus": "uploading",
+    "uploadProgress": 50
   }
 ]
