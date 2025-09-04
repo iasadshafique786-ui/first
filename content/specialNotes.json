@@ -10,11 +10,6 @@
     "color": "bg-green-200"
   },
   {
-    "id": "3",
-    "text": "\nAnd He is the Forgiving, the Affectionate\nQuran 85:14",
-    "color": "bg-yellow-200"
-  },
-  {
     "id": "4",
     "text": "\nSo remember Me; I will remember you\nQuran 2:152",
     "color": "bg-blue-200"
@@ -38,6 +33,11 @@
     "id": "8",
     "text": "\nAnd seek help through patience and prayer\nQuran 2:45",
     "color": "bg-blue-200"
+  },
+  {
+    "id": "3",
+    "text": "\nAnd He is the Forgiving, the Affectionate\nQuran 85:14",
+    "color": "bg-yellow-200"
   },
   {
     "id": "9",
