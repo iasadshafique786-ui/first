@@ -70,16 +70,5 @@
     "type": "image",
     "url": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f",
     "thumbnail": "https://api.altan.ai/platform/media/441da98e-129b-49d0-85a1-8c9471a14968?account_id=5b76e941-816e-410e-9a7e-e3af2d8f053f"
-  },
-  {
-    "id": "1756967252813",
-    "title": "1",
-    "description": "1",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/iasadshafique786-ui/first/main/uploads/103147.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/iasadshafique786-ui/first/main/uploads/103147.jpg",
-    "isLocal": false,
-    "uploadStatus": "success",
-    "uploadProgress": 100
   }
 ]
